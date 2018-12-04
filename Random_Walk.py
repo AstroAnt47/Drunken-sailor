@@ -299,12 +299,9 @@ Sailor ain't sailing anymore. Might as well head back to the pub."
             break
 
 
-
-
     plot_path("Tracked_Path.txt") # Plot path
 
     return
-
 
 
 
